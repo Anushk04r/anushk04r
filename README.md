@@ -2,62 +2,86 @@
   <img src="23.png" style="width:100%; max-height:20px; object-fit:cover;" />
 </p>
 
-<!-- ===== Banner ===== -->
 
-<!-- ===== Intro ===== -->
+
 <h2 align="center">Hi 👋 I'm Anushk</h2>
 
 <p align="center">
 Full-Stack Developer • Applied AI Builder • Learning System Design & Scalable Systems
 </p>
 
-<p align="center">
-I build real products using backend engineering and AI — RAG pipelines, CV systems and production APIs.
-</p>
+---
+
+## 🧑‍💻 About Me
+- I enjoy building end-to-end real world applications
+- Interested in scalable backend systems & applied AI
+- Working with RAG pipelines, CV systems & production APIs
+- Currently exploring system design & performance optimization
 
 ---
 
-<!-- ===== Contact ===== -->
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="tel:+91XXXXXXXXXX">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Phone-25D366?style=flat&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts" />
-</p>
+## 🛠 Tech & Tools
 
-## ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,express" />
-</p>
+<table align="center">
+<tr>
+<td valign="top">
 
-## 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
+### Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 
-## 🗄️ Database & Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,aws,docker" />
-</p>
+### Frontend
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white"/>
 
-## 🤖 AI / ML
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
+</td>
+<td valign="top">
+
+### Backend
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot"/>
+<img src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=node.js&logoColor=white"/>
+
+### Databases
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb"/>
+
+### Cloud
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker"/>
+
+</td>
+<td valign="top">
+
+### AI / ML
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv"/>
 
 RAG • LLM Apps • Speech Recognition • Computer Vision
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -70,11 +94,10 @@ RAG • LLM Apps • Speech Recognition • Computer Vision
 ---
 
 ## 🌱 Currently Learning
-System Design • Scaling APIs • Better RAG pipelines • Production AI
+System Design • Scaling APIs • Production AI systems
 
 ---
 
-<!-- ===== GitHub Stats ===== -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
