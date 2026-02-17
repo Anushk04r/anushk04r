@@ -22,35 +22,37 @@ I’m particularly interested in systems that actually get used by people — so
 
 ## 🛠 Tech Stack
 
+## 🛠 Tech Stack
+
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img height="28" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img height="28" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img height="28" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img height="28" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img height="28" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi"/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot"/>
-<img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img height="28" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img height="28" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
+<img height="28" src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img height="28" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+<img height="28" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot"/>
+<img height="28" src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
+<img height="28" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
+<img height="28" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
+<img height="28" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+<img height="28" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
+<img height="28" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+<img height="28" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+<img height="28" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
 
 </p>
 
