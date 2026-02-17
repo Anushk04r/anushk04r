@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="Gemini_Generated_Image_ijyal7ijyal7ijya.png" width="100%"  />
+  <img src="Gemini_Generated_Image_ijyal7ijyal7ijya.png" width="100%" height="50%" />
 </p>
 
