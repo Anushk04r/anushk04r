@@ -20,69 +20,41 @@ I’m particularly interested in systems that actually get used by people — so
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 📄 RAG Document Chatbot
-Query PDFs using retrieval-augmented generation  
-LLM + embeddings + vector search
-
-</td>
-<td width="50%">
-
-### 🎤 Real-Time Voice Transcriber
-Streaming speech-to-text pipeline  
-Low latency transcription system
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 👤 Face Recognition System
-Attendance & identity verification  
-Computer vision + embeddings
-
-</td>
-<td width="50%">
-
-### 🎬 Video Transcription Pipeline
-Audio extraction + transcription + indexing  
-Searchable media understanding
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nextjs,tailwind,fastapi,spring,nodejs,postgres,mongodb,aws,docker,pytorch,tensorflow,opencv" width="100%"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot"/>
+<img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=node.js&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="tel:+91XXXXXXXXXX">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=flat&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
