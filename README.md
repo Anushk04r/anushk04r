@@ -24,36 +24,35 @@ I’m particularly interested in systems that actually get used by people — so
 
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python"/>
+<img src="https://img.shields.io/badge/Java-007396?logo=openjdk"/>
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript"/>
 
 <br>
 
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot)
-![Node.js](https://img.shields.io/badge/NodeJS-339933?logo=node.js)
+<img src="https://img.shields.io/badge/React-20232A?logo=react"/>
+<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot"/>
+<img src="https://img.shields.io/badge/NodeJS-339933?logo=node.js"/>
 
 <br>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker"/>
 
 <br>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv)
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv"/>
 
 </p>
-
 
 ---
 
